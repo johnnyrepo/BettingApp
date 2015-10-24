@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: BettingApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: evgenius
+Implementation-Vendor-Id: com.oddsring
+Build-Jdk: 1.8.0_25
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

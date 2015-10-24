@@ -1,0 +1,4 @@
+com\oddsring\controller\rest\ReportsControllerIntegrationTest.class
+com\oddsring\engine\MatchCoefficientRandomizerUnitTest.class
+com\oddsring\service\BettingServiceIntegrationTest.class
+com\oddsring\controller\rest\BetsControllerIntegrationTest.class
